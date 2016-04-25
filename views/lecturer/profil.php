@@ -173,7 +173,7 @@
                         </li>
 
                         <li >
-                          <a href="<?php echo base_url('index.php/lecturer/eror'); ?>" class="auto">
+                          <a href="<?php echo base_url('index.php/lecturer/gantipassword'); ?>" class="auto">
                             <i class="i i-dot"></i>
 
                             <span>Ganti password</span>
