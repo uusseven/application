@@ -235,6 +235,241 @@
                   <a href="#nav, #sidebar" class="btn btn-icon b-2x btn-info btn-rounded" data-toggle="class:nav-xs, show"><i class="fa fa-bars"></i></a>
                     </div>
                   </section>
+                  <section id="content">
+                    <section class="wrapper">
+                    <section class="panel panel-default">
+                      <header class="panel-heading">
+                        Silahkan isi survey berikut.
+                      </header>
+
+                    </section>
+                  </section>
+                  <div class="col-sm-17">
+                    <form class="form-horizontal" data-validate="parsley">
+                      <section class="panel panel-default">
+                        <header class="panel-heading">
+                          <strong>Isilah dengan jujur</strong>
+                        </header>
+                        <form>
+                        <div class="panel-body">
+                            <label class="col-sm-8 control-label">1. Secara umum, dosen yang mengejar matakuliah menguasai materi perkuliahan yang diberikannya</label>
+                            <div class="radio-inline i-checks">
+                              <label class="radio-inline i-checks">
+                                <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                              </label>
+                              <label class="radio-inline i-checks">
+                                <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                              </label>
+                              <label class="radio-inline i-checks">
+                                <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                              </label>
+                              <label class="radio-inline i-checks">
+                                <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                              </label>
+                              <label class="radio-inline i-checks">
+                                <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                              </label>
+                            </div>
+                          </form>
+                          <form>
+                          <div class="line line-dashed b-b line-lg pull-in"></div>
+                                <label class="col-sm-8 control-label">2. Secara umum, dosen yang mengajar pada matakuliah ini dapat berkomunikasi dan menyampaikan materi kuliah dengan baik dan menarik</label>
+                                <div class="radio-inline i-checks">
+                                  <label class="radio-inline i-checks">
+                                    <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                  </label>
+                                  <label class="radio-inline i-checks">
+                                    <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                  </label>
+                                  <label class="radio-inline i-checks">
+                                    <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                  </label>
+                                  <label class="radio-inline i-checks">
+                                    <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                  </label>
+                                  <label class="radio-inline i-checks">
+                                    <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                  </label>
+                                </div>
+                              </form>
+                              <form>
+                              <div class="line line-dashed b-b line-lg pull-in"></div>
+                                    <label class="col-sm-8 control-label">3. SITH/ITB memiliki fasilitas/sarana prasarana perkuliahan yang memadai untuk menunjang kelancaran kuliah</label>
+                                    <div class="radio-inline i-checks">
+                                      <label class="radio-inline i-checks">
+                                        <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                      </label>
+                                      <label class="radio-inline i-checks">
+                                        <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                      </label>
+                                      <label class="radio-inline i-checks">
+                                        <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                      </label>
+                                      <label class="radio-inline i-checks">
+                                        <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                      </label>
+                                      <label class="radio-inline i-checks">
+                                        <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                      </label>
+                                    </div>
+                                  </form>
+                                <form>
+                                <div class="line line-dashed b-b line-lg pull-in"></div>
+                                      <label class="col-sm-8 control-label">4. Asisten praktikum tersedia dalam jumlah yang mencukupi</label>
+                                      <div class="radio-inline i-checks">
+                                        <label class="radio-inline i-checks">
+                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                        </label>
+                                        <label class="radio-inline i-checks">
+                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                        </label>
+                                        <label class="radio-inline i-checks">
+                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                        </label>
+                                        <label class="radio-inline i-checks">
+                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                        </label>
+                                        <label class="radio-inline i-checks">
+                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                        </label>
+                                      </div>
+                                    </form>
+                                    <form>
+                                    <div class="line line-dashed b-b line-lg pull-in"></div>
+                                          <label class="col-sm-8 control-label">5. Secara umum, asisten praktikum memiliki pengetahuan, kemampuan dan komitmen yang diperlukan untuk menunjang kelancaran praktikum</label>
+                                          <div class="radio-inline i-checks">
+                                            <label class="radio-inline i-checks">
+                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                            </label>
+                                            <label class="radio-inline i-checks">
+                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                            </label>
+                                            <label class="radio-inline i-checks">
+                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                            </label>
+                                            <label class="radio-inline i-checks">
+                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                            </label>
+                                            <label class="radio-inline i-checks">
+                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                            </label>
+                                          </div>
+                                        </form>
+                                        <form>
+                                        <div class="line line-dashed b-b line-lg pull-in"></div>
+                                              <label class="col-sm-8 control-label">6. SITH/ITB memiliki fasilitas/sarana prasarana laboratorium/lapangan yang memadai untuk menunjang kelancaran praktikum</label>
+                                              <div class="radio-inline i-checks">
+                                                <label class="radio-inline i-checks">
+                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                                </label>
+                                                <label class="radio-inline i-checks">
+                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                                </label>
+                                                <label class="radio-inline i-checks">
+                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                                </label>
+                                                <label class="radio-inline i-checks">
+                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                                </label>
+                                                <label class="radio-inline i-checks">
+                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                                </label>
+                                              </div>
+                                            </form>
+                                            <form>
+                                            <div class="line line-dashed b-b line-lg pull-in"></div>
+                                                  <label class="col-sm-8 control-label">7. Matakuliah ini dirancang untuk mengikuti perkembangan mutakhir dalam keilmuan dan aplikasi bidang ilmu saya</label>
+                                                  <div class="radio-inline i-checks">
+                                                    <label class="radio-inline i-checks">
+                                                      <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                                    </label>
+                                                    <label class="radio-inline i-checks">
+                                                      <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                                    </label>
+                                                    <label class="radio-inline i-checks">
+                                                      <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                                    </label>
+                                                    <label class="radio-inline i-checks">
+                                                      <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                                    </label>
+                                                    <label class="radio-inline i-checks">
+                                                      <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                                    </label>
+                                                  </div>
+                                                </form>
+                                                <form>
+                                                <div class="line line-dashed b-b line-lg pull-in"></div>
+                                                      <label class="col-sm-8 control-label">8. Matakuliah ini memberikan saya gambaran/pengetahuan tentang prospek pekerjaan setelah saya lulus</label>
+                                                      <div class="radio-inline i-checks">
+                                                        <label class="radio-inline i-checks">
+                                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                                        </label>
+                                                        <label class="radio-inline i-checks">
+                                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                                        </label>
+                                                        <label class="radio-inline i-checks">
+                                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                                        </label>
+                                                        <label class="radio-inline i-checks">
+                                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                                        </label>
+                                                        <label class="radio-inline i-checks">
+                                                          <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                                        </label>
+                                                      </div>
+                                                    </form>
+                                                    <form>
+                                                    <div class="line line-dashed b-b line-lg pull-in"></div>
+                                                          <label class="col-sm-8 control-label">9. Secara umum, dosen mengakolokasikan waktu tatap muka di kelas yang sesuai dengan tuntutan sks matakuliah</label>
+                                                          <div class="radio-inline i-checks">
+                                                            <label class="radio-inline i-checks">
+                                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                                            </label>
+                                                            <label class="radio-inline i-checks">
+                                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                                            </label>
+                                                            <label class="radio-inline i-checks">
+                                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                                            </label>
+                                                            <label class="radio-inline i-checks">
+                                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                                            </label>
+                                                            <label class="radio-inline i-checks">
+                                                              <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                                            </label>
+                                                          </div>
+                                                        </form>
+                                                        <form>
+                                                        <div class="line line-dashed b-b line-lg pull-in"></div>
+                                                              <label class="col-sm-8 control-label">10. Dosen memberikan saya banyak kesempatan untuk bertanya dan berdiskusi</label>
+                                                              <div class="radio-inline i-checks">
+                                                                <label class="radio-inline i-checks">
+                                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>1
+                                                                </label>
+                                                                <label class="radio-inline i-checks">
+                                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>2
+                                                                </label>
+                                                                <label class="radio-inline i-checks">
+                                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>3
+                                                                </label>
+                                                                <label class="radio-inline i-checks">
+                                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>4
+                                                                </label>
+                                                                <label class="radio-inline i-checks">
+                                                                  <input type="radio" id="inlineRadio1" name="a" value="option1"><i></i>5
+                                                                </label>
+                                                              </div>
+                                                            </form>
+
+                    <a href="#" class="hide nav-off-screen-block" data-toggle="class:nav-off-screen" data-target="#nav"></a>
+                  </section>
+                  <footer class="panel-footer text-right bg-light lter">
+                    <button type="submit" class="btn btn-success btn-s-xs">Submit</button>
+                  </footer>
+                </section>
+              </section>
+            </section>
+            <script src="js/jquery.min.js"></script>
             <!-- side content -->
             <aside class="aside-md bg-black hide" id="sidebar">
               <section class="vbox animated fadeInRight">
